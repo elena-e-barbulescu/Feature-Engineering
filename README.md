@@ -40,3 +40,19 @@ Work dealing with feature importance, selection, extraction and design.
 - **heads-up: some of this content overalps with some of the content in the other notebooks.**
 
 ### 5_Feature-Importance-Tree-Based-Models
+
+### 6_Engineering-Numerical-Features
+- optimal use for
+- aggregate statistics
+
+### 7_Dimensionality-Reduction
+- PCA
+
+### 8_A-Little-bit-of-Everything
+- reminders of modeling 
+- data types
+- messy/missing values
+- issues with removing all rows with missing values
+- importance of data distribution
+- caling and transformation
+- removing outliers
